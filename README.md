@@ -1,4 +1,4 @@
-# Hi, I'm Steven Padolina 👋
+# Hi, I'm Steven Rufe Padolina 👋
 
 ### Senior .NET Developer | Full-Stack Software Engineer
 
